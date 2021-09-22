@@ -14,3 +14,8 @@
 |               | Merge Sort                                         | [mergeSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%204/mergeSort.cpp)                     |
 | Week 4        | Quick Sort                                         | [quickSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%204/quickSort.cpp)                     |
 |               |Finding Kth smallest number                         | [KSmallest.cpp](https://github.com/foosayyy/DAA/blob/main/week%204/KSmallest.cpp)                     |
+|               | Count Sort                                         | [countSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%205/countSort.cpp)                     |
+| Week 5        | Finding indices as a[i]+a[j]=a[k] in unsorted array| [keyPairSum.cpp](https://github.com/foosayyy/DAA/blob/main/week%205/keyPairSum.cpp)                   |
+|               | Finding common elements of two arrays              | [common.cpp](https://github.com/foosayyy/DAA/blob/main/week%205/common.cpp)                           |
+| Week 6        | Finding Existance of Path                          | [dfs.cpp](https://github.com/foosayyy/DAA/blob/main/week%206/dfs.cpp)                                 |
+|               | Checking if Graph is Bipartite                     | [bipartite.cpp](https://github.com/foosayyy/DAA/blob/main/week%206/bipartite.cpp)                     |
