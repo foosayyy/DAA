@@ -1,8 +1,8 @@
 # DAA
-Name               : Krishanu Rai
-Section            : SE
-Roll No            : 77
-University Roll No : 2015076
+Name               : Krishanu Rai <br />
+Section            : SE <br />
+Roll No            : 77 <br />
+University Roll No : 2015076 <br />
 
 | Week          | Title                                              |      Submission                                                                                       |
 | ------------- |:---------------------------------------------------|------------------------------------------------------------------------------------------------------:|
