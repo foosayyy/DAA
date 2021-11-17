@@ -3,23 +3,143 @@ Name               : Krishanu Rai <br />
 Section            : SE <br />
 Roll No            : 77 <br />
 University Roll No : 2015076 <br />
+### Lab Work
 
-| Week          | Title                                              |      Submission                                                                                       |
-| ------------- |:---------------------------------------------------|------------------------------------------------------------------------------------------------------:|
-|               | Linear Search                                      | [linearSearch.cpp](https://github.com/foosayyy/DAA/blob/main/week%201/binarySearch.cpp)               |
-| Week 1        | Binary Search                                      | [Binary Search](https://github.com/foosayyy/DAA/blob/main/week%201/binarySearch.cpp)                  |
-|               | Exponential Search                                 | [Exponential Search](https://github.com/foosayyy/DAA/blob/main/week%201/exponentialSearch.cpp)        |
-|               | No. of duplicates of Key                           | [problem1.cpp](https://github.com/foosayyy/DAA/blob/main/week%202/problem1.cpp)                       |
-| Week 2        | Finding indices as a[i]+a[j]=a[k] in sorted array  | [problem2.cpp](https://github.com/foosayyy/DAA/blob/main/week%202/problem2.cpp)                       |
-|               |Counting pairs equal to key                         | [problem3.cpp](https://github.com/foosayyy/DAA/blob/main/week%202/problem3.cpp)                       |
-|               | Insertion Sort                                     | [insertionSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%203/insertionSort.cpp)             |
-| Week 3        | Selection Sort                                     | [selectionSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%203/selectionSort.cpp)             |
-|               | Checking for duplicates                            | [duplicates.cpp](https://github.com/foosayyy/DAA/blob/main/week%203/duplicates.cpp)                   |
-|               | Merge Sort                                         | [mergeSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%204/mergeSort.cpp)                     |
-| Week 4        | Quick Sort                                         | [quickSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%204/quickSort.cpp)                     |
-|               |Finding Kth smallest number                         | [KSmallest.cpp](https://github.com/foosayyy/DAA/blob/main/week%204/KSmallest.cpp)                     |
-|               | Count Sort                                         | [countSort.cpp](https://github.com/foosayyy/DAA/blob/main/week%205/countSort.cpp)                     |
-| Week 5        | Finding indices as a[i]+a[j]=a[k] in unsorted array| [keyPairSum.cpp](https://github.com/foosayyy/DAA/blob/main/week%205/keyPairSum.cpp)                   |
-|               | Finding common elements of two arrays              | [common.cpp](https://github.com/foosayyy/DAA/blob/main/week%205/common.cpp)                           |
-| Week 6        | Finding Existance of Path                          | [dfs.cpp](https://github.com/foosayyy/DAA/blob/main/week%206/dfs.cpp)                                 |
-|               | Checking if Graph is Bipartite                     | [bipartite.cpp](https://github.com/foosayyy/DAA/blob/main/week%206/bipartite.cpp)                     |
+<table>
+    <thead>
+        <tr>
+            <th>Week</th>
+            <th>Title</th>
+            <th>Submission</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=3>Week 1</td>
+            <td>Linear Search</td>
+            <td> <a href="week 1/linearSearch.cpp">linearSearch.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Binary Search</td>
+            <td> <a href="week 1/binarySearch.cpp">binarySearch.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Exponential Search</td>
+            <td> <a href="./Lab Work/Week1/exponentialSearch.cpp">exponentialSearch.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 2</td>
+            <td>No. of duplicates of Key</td>
+            <td> <a href="./Lab Work/Week2/problem1.cpp">problem1.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Finding indices as a[i]+a[j]=a[k] in sorted array</td>
+            <td> <a href="./Lab Work/Week2/problem2.cpp">problem2.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Counting pairs equal to key</td>
+            <td> <a href="./Lab Work/Week2/problem3.cpp">problem3.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 3</td>
+            <td>Insertion Sort</td>
+            <td> <a href="./Lab Work/Week3/insertionSort.cpp">insertionSort.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Selection Sort</td>
+            <td> <a href="./Lab Work/Week3/selectionSort.cpp">selectionSort.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Checking for duplicates</td>
+            <td> <a href="./Lab Work/Week3/duplicates.cpp">duplicates.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 4</td>
+            <td>Merge Sort</td>
+            <td> <a href="./Lab Work/Week4/mergeSort.cpp">mergeSort.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Quick Sort</td>
+            <td> <a href="./Lab Work/Week4/quickSort.cpp">quickSort.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Finding Kth smallest number</td>
+            <td> <a href="./Lab Work/Week4/KSmallest.cpp">KSmallest.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 5</td>
+            <td>Count Sort</td>
+            <td> <a href="./Lab Work/Week5/countSort.cpp">countSort.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Finding indices as a[i]+a[j]=a[k] in unsorted array</td>
+            <td> <a href="./Lab Work/Week5/keyPairSum.cpp">keyPairSum.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Finding common elements of two arrays</td>
+            <td> <a href="./Lab Work/Week5/common.cpp">common.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=2>Week 6</td>
+            <td>Finding Existance of Path</td>
+            <td> <a href="./Lab Work/Week6/dfs.cpp">dfs.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Checking if Graph is Bipartite</td>
+            <td> <a href="./Lab Work/Week6/bipartite.cpp">bipartite.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 7</td>
+            <td>Djikstra Algorithm</td>
+            <td> <a href="./Lab Work/Week7/Djikstra.cpp">Djikstra.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Bellman Ford Algorithm</td>
+            <td> <a href="./Lab Work/Week7/bellmanFord.cpp">bellmanFord.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Shortest Path with exactly K edges</td>
+            <td> <a href="./Lab Work/Week7/SPKedge.cpp">SPKedge.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 8</td>
+            <td>Prims Algorithm</td>
+            <td> <a href="./Lab Work/Week8/prims.cpp">prims.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Kruskals Algorithm</td>
+            <td> <a href="./Lab Work/Week8/kruskals.cpp">kruskals.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Maximum Road Cost</td>
+            <td> <a href="./Lab Work/Week8/costMaximization.cpp">costMaximization.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 9</td>
+            <td>Floyd-Warshall Algorithm</td>
+            <td> <a href="./Lab Work/Week9/Floyd_Warshall.cpp">Floyd_Warshall.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Fractional-Knapsack Algorithm</td>
+            <td> <a href="./Lab Work/Week9/Fractional_Knapsack.cpp">Fractional_Knapsack.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Minimum Merging Cost</td>
+            <td> <a href="./Lab Work/Week9/Merge_File.cpp">Merge_File.cpp</a> </td>
+        </tr>
+        <tr>
+            <td rowspan=3>Week 10</td>
+            <td>Activity Selection Algo</td>
+            <td> <a href="./Lab Work/Week10/activity_selection.cpp">activity_selection.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Job Sequencing</td>
+            <td> <a href="./Lab Work/Week10/job_sequencing.cpp">job_sequencing.cpp</a> </td>
+        </tr>
+        <tr>
+            <td>Median & Majority Element</td>
+            <td> <a href="./Lab Work/Week10/Majority_Median.cpp">Majority_Median.cpp</a> </td>
+        </tr>
+    </tbody>
+
+</table>
